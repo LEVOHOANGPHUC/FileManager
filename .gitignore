@@ -2,3 +2,5 @@
 .env
 __pycache__/
 *.pyc
+# Bỏ qua file chứa mật khẩu
+.env
