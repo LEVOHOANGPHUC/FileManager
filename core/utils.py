@@ -86,4 +86,4 @@ if __name__ == "__main__":
     test_file = r"C:\MMM\file_test.txt"
     
     # ket_qua = get_file_properties(test_file)
-    # print(ket_qua)
+    #- print(ket_qua)
